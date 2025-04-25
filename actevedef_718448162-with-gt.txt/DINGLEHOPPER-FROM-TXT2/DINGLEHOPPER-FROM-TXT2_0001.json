@@ -1,0 +1,11 @@
+{
+    "gt": "GT-TXT/00000024.txt",
+    "ocr": "OCR-D-OCR-TESS/OCR-D-OCR-TESS_0001.xml",
+
+    "cer": 0.040231114915471856,
+    "wer": 0.1609353507565337,
+
+
+    "n_characters": 4673,
+    "n_words": 727
+}
