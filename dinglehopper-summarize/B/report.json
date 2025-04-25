@@ -1,0 +1,11 @@
+{
+    "gt": "gt.txt",
+    "ocr": "ocr.txt",
+
+    "cer": 0.16666666666666666,
+    "wer": 0.5,
+
+
+    "n_characters": 12,
+    "n_words": 2
+}
